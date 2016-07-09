@@ -4,5 +4,5 @@ int sum(int n){
 	for(i=1;i<=n;i++){
 		res+=i;
 }
-	return res;s
+	return res;
 }

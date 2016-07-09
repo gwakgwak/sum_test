@@ -5,8 +5,8 @@ using namespace std;
 
 int main(){
 	int i;
-	cin >> a;
-	cout << sum(a) << endl
+	cin >> i;
+	cout << sum(i) << endl;
 	return 0;
 
 }
